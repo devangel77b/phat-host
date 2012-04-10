@@ -7,7 +7,7 @@ setup(
     author_email='devangel@berkeley.edu',
     packages=['phat'],
 #    scripts=['bin/stowe-towels.py','bin/wash-towels.py'],
-#    url='http://pypi.python.org/pypi/TowelStuff/',
+    url='https://bitbucket.org/devangel77b/phat-host',
     license='LICENSE.txt',
     description='Phased array tracking of animals etc.',
     long_description=open('README.txt').read(),

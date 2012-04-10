@@ -1,6 +1,6 @@
-===========
+============================
 Phat (Phased Array Tracking)
-===========
+============================
 
 This directory contains the design files for host software for use in the Phased Array Tracking system for flight biomechanics studies.
 
